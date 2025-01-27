@@ -1,5 +1,5 @@
 # NY-Subway-System-Route-Finder
-This is a Python program that produces the smallest distance between two NY subway stations and displays the result on a generated graph.
+This is a Python program that produces the shortest distance between two NY subway stations and displays the result on a generated graph.
 
 To use this program, install the following packages:
 - plotly
